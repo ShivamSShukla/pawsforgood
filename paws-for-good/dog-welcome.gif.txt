@@ -1,0 +1,10 @@
+PLACEHOLDER: dog-welcome.gif
+
+This file should be an animated GIF of a friendly dog waving, wagging tail, or being cute (200x200px recommended).
+
+You can find free options at:
+1. GIPHY (search "cute dog waving")
+2. Tenor GIFs
+3. Create your own using Canva
+
+For now, a placeholder div will show if this file is missing.
