@@ -1,0 +1,10 @@
+PLACEHOLDER: dog-cursor.gif
+
+This file should be a small animated GIF of a dog paw print or cartoon dog (32x32px recommended).
+
+You can create one using:
+1. Free tools like GIPHY or Canva
+2. Stock image sites (search "dog cursor animated gif")
+3. Commission a simple animation
+
+For now, the cursor will fallback to default if this file is missing.
