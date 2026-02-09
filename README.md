@@ -1,4 +1,4 @@
-# Paws For Good - Ethical Pet Support Platform
+# Pawspets - Ethical Pet Support Platform
 
 ## Project Overview
 A fully functional, production-ready affiliate commerce website that helps feed street dogs and cats. Users shop everyday products through affiliate links, and 100% of commissions go toward purchasing food for rescued animals.
